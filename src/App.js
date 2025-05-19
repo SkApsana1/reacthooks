@@ -1,18 +1,18 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
-import ConterClass from './components/ConterClass';
-import CounterFunc from './components/CounterFunc';
-import Resetcounter from './components/Resetcounter';
+// import ConterClass from './components/ConterClass';
+// import CounterFunc from './components/CounterFunc';
+// import Resetcounter from './components/Resetcounter';
 
-import HookObject from './components/HookObject';
-import DocumentTitle from './components/DocumentTitle';
-import HookDocumentTitle from './components/HookDocumentTitle';
-import HookMouse from './components/HookMouse';
+// import HookObject from './components/HookObject';
+// import DocumentTitle from './components/DocumentTitle';
+// import HookDocumentTitle from './components/HookDocumentTitle';
+// import HookMouse from './components/HookMouse';
 import MouseContainer from './components/MouseContainer';
 function App() {
   return (
     <div className="App">
-      <ConterClass/>
+      {/* <ConterClass/> */}
       {/* <CounterFunc/> */}
       {/* <Resetcounter/> */}
       {/* <HookObject/> */}
