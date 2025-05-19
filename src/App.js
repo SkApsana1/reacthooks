@@ -12,7 +12,7 @@ import MouseContainer from './components/MouseContainer';
 function App() {
   return (
     <div className="App">
-      {/* <ConterClass/> */}
+      <ConterClass/>
       {/* <CounterFunc/> */}
       {/* <Resetcounter/> */}
       {/* <HookObject/> */}
